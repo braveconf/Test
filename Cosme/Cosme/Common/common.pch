@@ -1,0 +1,24 @@
+//
+//  common.pch
+//  common
+//
+//  Created by peijingwu on 16/12/10.
+//  Copyright © 2016年 pingan.com.cn. All rights reserved.
+//
+
+#ifndef common_h
+#define common_h
+
+#import <UIKit/UIKit.h>
+#import "UIExtension.h"
+#import "UtilExtension.h"
+#import "Utility.h"
+
+#import "AppDefs.h"
+
+//needs to update for ypur project
+#import "global.h"
+
+#import "commonDefs.h"
+
+#endif /* common_h */
